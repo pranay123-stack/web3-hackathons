@@ -32,4 +32,4 @@ record.
 
 ---
 
-*Part of [Onchain Protocol Engineering](https://github.com/pranay123-stack/onchain-protocol-engineering)*
+*Part of [Web3 Infrastructure](https://github.com/pranay123-stack/web3-infrastructure)*
